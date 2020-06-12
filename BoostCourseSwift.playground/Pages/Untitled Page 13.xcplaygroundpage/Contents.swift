@@ -76,7 +76,7 @@ struct Student {
 Student.selfIntroduce() // 학생타입입니다
 // 가변 인스턴스 생성
 var yagom: Student = Student()
-yagom.name = "yagom"
+yagom.name = "Jeongsik"
 yagom.class = "스위프트"
 yagom.selfIntroduce()   // 저는 스위프트반 yagom입니다
 // 불변 인스턴스 생성
